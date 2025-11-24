@@ -4,3 +4,5 @@
 # Dont just and feel free to message me for any ideas to what to do better. email -> petridisalexandros25@gmail.com
 
 # It is going to be a python project and for the gui i will use the tkinter library
+
+# By Alexandros Petridis
